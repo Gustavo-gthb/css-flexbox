@@ -27,9 +27,6 @@
     background-color: #CCC;
     border: 2px solid blue;
     height: 50px;
-    flex-basis: 100px;
-    flex-grow: 1;
-    flex-shrink: 1;
     /* shorthand para item */
     flex: 1 1 50px;
     /* GROW SHRINK E BASIS */
