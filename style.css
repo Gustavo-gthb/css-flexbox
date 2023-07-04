@@ -8,7 +8,8 @@
     /* alinhamento horizontal */
     justify-content: space-between;
     /* alinhamento vertival */
-    
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .item {
