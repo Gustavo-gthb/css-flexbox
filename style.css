@@ -5,7 +5,10 @@
     max-width: 300px;
     height: 300px;
     display: flex;
-    justify-content: center;
+    /* alinhamento horizontal */
+    justify-content: space-between;
+    /* alinhamento vertival */
+    
 }
 
 .item {
